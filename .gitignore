@@ -13,6 +13,12 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# Backend clonado (tiene su propio repo)
+backend-clinica
+
+# Env local
+.env
+
 # Editor y Sistema Operativo
 .vscode/*
 !.vscode/extensions.json
